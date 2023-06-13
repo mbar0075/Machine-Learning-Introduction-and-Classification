@@ -1,4 +1,4 @@
-# ICS2207 - Machine Learning: Classification, Search and Optimisation
+# Machine Learning: Classification, Search and Optimisation
 
 # Author: 
 **Matthias Bartolo 0436103L**
