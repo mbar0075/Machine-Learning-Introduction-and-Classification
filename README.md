@@ -13,9 +13,8 @@
 This project aimed to develop an improved keyboard layout through the utilization of AI techniques, specifically a **genetic algorithm**. Drawing inspiration from the ["Using AI to Create the Perfect Keyboard"](https://www.youtube.com/watch?v=EOaPb9wrgDY) project, a range of modifications and alternative approaches were incorporated. Departing from the arXiv abstract dataset utilized in the original project, an experimental investigation was conducted using books from Project Gutenberg, specifically focusing on the renowned text corpus of **"Ben Hur"**.
 
 <p align='center'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Ben_hur_1959_poster.jpg" alt="Ben Hur Image" style="display: block; margin: 0 auto; width: 30%; height: auto;">
+  <img src="https://github.com/mbar0075/Machine-Learning-Introduction-and-Classification/assets/103250564/2d7ecf1e-e19a-47e5-be3e-563442658256" alt="Ben Hur Image" style="display: block; margin: 0 auto; width: 30%; height: auto;">
 </p>
-
 
 To enhance the genetic algorithm, a **two-point crossover** was introduced as an alternative to the original crossover operation. Furthermore, various **mutation** operations were designed and integrated into the algorithm to address its absence in the original project. The influence of this mutation operator on the optimization process for the keyboard layout was observed and evaluated.
 
