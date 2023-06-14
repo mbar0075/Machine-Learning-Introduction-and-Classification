@@ -34,9 +34,9 @@ Significant emphasis is placed on the evaluation phase within the report. This i
 The **conclusion** section summarizes the notable observations and intriguing discoveries made throughout the project. The report offers a comprehensive overview of the work undertaken, encompassing the initial design decisions and culminating in the final evaluation. Through this in-depth analysis, the report demonstrates a well-executed study centered around AI-driven keyboard optimization, showcasing the potential for enhanced layout designs.
 
 ## Deliverables (Please make sure that the following files, are in the same directory):
-1. **dataset.txt** - contains dataset file, which will be used by jupyter notebook 
-2. **dataset2.txt** - contains dataset file, which will be used by jupyter notebook 
-3. **KeyboardImage.png** - contains Keyboard Image file, which will be used by jupyter notebook 
-4. **Matthias Bartolo Machine Learning Assignment.ipnyb** - jupyter notebook, which will hold the project code
-5. **Matthias Bartolo Machine Learning Report.pdf** - contains the assignment documentation
-6. **Roboto-Black.ttf** - contains font file, which will be used by jupyter notebook 
+1. [dataset.txt](https://github.com/mbar0075/Machine-Learning-Introduction-and-Classification/blob/main/dataset.txt) - contains dataset file, which will be used by jupyter notebook 
+2. [dataset2.txt](https://github.com/mbar0075/Machine-Learning-Introduction-and-Classification/blob/main/dataset2.txt) - contains dataset file, which will be used by jupyter notebook 
+3. [KeyboardImage.png](https://github.com/mbar0075/Machine-Learning-Introduction-and-Classification/blob/main/KeyboardImage.png) - contains Keyboard Image file, which will be used by jupyter notebook 
+4. [Matthias Bartolo Machine Learning Assignment.ipnyb](https://github.com/mbar0075/Machine-Learning-Introduction-and-Classification/blob/main/Matthias%20Bartolo%20Machine%20Learning%20Assignment.ipynb) - jupyter notebook, which will hold the project code
+5. [Matthias Bartolo Machine Learning Report.pdf](https://github.com/mbar0075/Machine-Learning-Introduction-and-Classification/blob/main/Matthias%20Bartolo%20Machine%20Learning%20Report.pdf) - contains the assignment documentation
+6. [Roboto-Black.ttf](https://github.com/mbar0075/Machine-Learning-Introduction-and-Classification/blob/main/Roboto-Black.ttf) - contains font file, which will be used by jupyter notebook 
